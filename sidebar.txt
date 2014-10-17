@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yot:home|Door43 (yot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yot|d43-yot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yot/archive/master.zip|d43-yot.zip]]
+
+**Recent Changes**
+{{changes>ns = yot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yot|Ethnologue data]]
+
